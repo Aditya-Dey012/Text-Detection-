@@ -5,3 +5,7 @@ In the context of images, the system excels at accurately identifying and extrac
 Extending its capability to videos, the system processes frames in real-time, enabling dynamic text extraction from video streams. This functionality opens up possibilities for applications in video indexing, content moderation, and video analytics where textual information needs to be extracted and analyzed.
 
 This Text Detection system showcases the potential of combining computer vision techniques with OCR technologies, making it a valuable tool for tasks that require the conversion of visual information into textual data across both static images and dynamic video content.
+
+
+
+NOTE : UNZIP THE ZIPPED FOLDERS BEFORE IMPLEMENTING
