@@ -9,3 +9,4 @@ This Text Detection system showcases the potential of combining computer vision 
 
 
 NOTE : UNZIP THE ZIPPED FOLDERS BEFORE IMPLEMENTING
+UNZIP : venv/Lib/site packages/cv2/cv2.cp38-win32.zip
